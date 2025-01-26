@@ -38,6 +38,10 @@ O aplicativo utiliza a biblioteca <mark style="background-color:rgb(114, 113, 11
 - Salvar o vídeo na pasta <mark style="background-color:rgb(114, 113, 113); color: white;">download</mark> com o título do vídeo.
 - Baixar apenas o vídeo individual (sem playlists).
 
+![Image](https://github.com/user-attachments/assets/099258f7-8f23-440b-a1cd-108a7effdcbb)
+
+![Image](https://github.com/user-attachments/assets/f1f655c8-8d17-46b8-9eb9-916c62be653c)
+
 ## Contribuindo
 Se você deseja contribuir com melhorias ou correções para o projeto, fique à vontade para fazer um fork e enviar um pull request.
 
